@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: website
-          image: docker.io/abstergo-corp:latest
+          image: docker.io/bincyjames/abstergo-corp:latest
           ports:
             - containerPort: 80
